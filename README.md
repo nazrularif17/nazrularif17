@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nazrul</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student | Software Engineering Intern</h3>
 
 <p align="center">
-🚀 I build real-world mobile apps with clean UI, solid backend logic, and AI-powered features  
+🚀 I build real-world mobile apps with clean UI, solid backend logic, and AI-powered features
+💼 Currently gaining industry experience as a Software Engineering Intern
 🎓 Final Year Software Engineering student  
 📱 Passionate about creating innovative solutions that leverage technology to meet real-world needs.  
 </p>
@@ -12,6 +13,7 @@
 ## 🧠 About Me
 - 🤖 Exploring **AI integration** for analytics, summaries & automation
 - 🛠️ Enjoy turning messy ideas into **structured, usable systems**
+- 💼 Currently applying my skills in a **real-world internship environment**
 - 🎯 Career goal: **Software Engineer / Software Developer**
 
 ---
