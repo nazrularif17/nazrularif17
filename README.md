@@ -1,83 +1,63 @@
-<h1 align="center">Hi 👋, I'm Nazrul</h1>
-<h3 align="center">Software Engineer · Fresh Graduate · Open to full-time roles</h3>
+## Hi, I'm Nazrul
+
+Software engineer based in Selangor, Malaysia.
+
+I recently finished a 24-week internship with the NIX engineering team at Nearbiz Tech, working on live commercial platforms — e-commerce, a booking and membership system, and video streaming. Mostly Go and PostgreSQL on the backend, React and TypeScript on the frontend. That code is client-owned and private, so most of what's public here is coursework and hackathon projects.
+
+Currently looking for a full-time software engineer role.
 
 ---
 
-## 👨‍💻 Profile
+### Tech stack
 
-Software engineer based in Selangor, Malaysia. I spent 24 weeks as a Software Engineer Intern on the four-person **NIX** engineering team at **Nearbiz Tech Sdn. Bhd.**, shipping features across five live commercial platforms — e-commerce, booking and membership systems, and video streaming.
+**Backend** &nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-00ADD8?style=flat-square&logo=go&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-Because those platforms already had paying customers, I owned features end to end: database schema, Go API, React frontend, deployment, and the debugging when something broke in production.
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-- 🔧 Most comfortable in **Go + PostgreSQL** on the backend, **React + TypeScript** on the frontend
-- 🚚 Have shipped real third-party integrations — logistics, payment gateways, transactional email
-- 🧪 Learning to write business logic as **pure, unit-tested functions**; it's the habit that saves me the most debugging time
-- 🎓 BIT (Hons) Software Engineering, UniKL MIIT — all requirements completed August 2026
-- 🎯 Looking for a **Software Engineer** role in full-stack or backend development, available to start immediately
+**Infrastructure** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
-
-## 🧰 Tech Stack
-
-**Backend**
-
-<p>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/GORM-00ADD8?style=flat&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-6DB33F?style=flat"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-</p>
-
-**Frontend**
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TanStack-FF4154?style=flat&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-</p>
-
-**Infrastructure & Tools**
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-</p>
+**Tools** &nbsp;
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
 ---
 
-## 📫 Connect
+### Connect
 
-<p>
-  <a href="https://nazrul-portfolio-kohl.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/nazrul-arif"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nazrularif.na@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-- 🌐 Portfolio — https://nazrul-portfolio-kohl.vercel.app
-- 💼 LinkedIn — https://linkedin.com/in/nazrul-arif
-- 📧 Email — nazrularif.na@gmail.com
+- Portfolio — https://nazrul-portfolio-kohl.vercel.app
+- LinkedIn — https://linkedin.com/in/nazrul-arif
+- Email — nazrularif.na@gmail.com
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nazrularif17&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazrularif17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
+### Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nazrularif17&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center"><i>Open to full-time Software Engineer roles — available immediately.</i></p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazrularif17&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazrularif17&theme=tokyonight" />
+</p>
